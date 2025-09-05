@@ -2,7 +2,7 @@
 
 Greetings! My name is Heet, and I'm excited to share my still developing data engineer portfolio. Within this repository, you'll find a comprehensive catalog of projects completed in various data analytics/ engineering courses or self development exercises, each of which covers essential skills and techniques.
 
-### [Web Scrapping - puppeteer](https://github.com/Kushh37/Web-Scrapping-and-Automation-Bots)
+### [Web Scrapping and Automation Bots - puppeteer](https://github.com/Kushh37/Web-Scrapping-and-Automation-Bots)
 
 - Brief overview:   JavaScript (Puppeteer) used to extract realtor data from private sources in Canada, create a dataset with all realtors, and export it into Excel format.  
 - Technology used: *JavaScript, Puppeteer, Excel*  
